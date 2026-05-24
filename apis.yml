@@ -1,0 +1,83 @@
+aid: epirus
+name: Epirus
+description: >-
+  Epirus is a Torrance, California-based defense technology company building
+  solid-state, software-defined high-power microwave (HPM) directed-energy
+  systems for counter-electronics and counter-unmanned-aerial-systems (cUAS)
+  missions. Its flagship product is Leonidas, a non-kinetic HPM weapon system
+  designed to defeat single drones and large drone swarms by disabling their
+  onboard electronics, with a growing product family that includes Leonidas
+  IFPC-HPM (Indirect Fire Protection Capability — High-Power Microwave) for
+  the U.S. Army, Leonidas Expeditionary (ExDECS) for the U.S. Marine Corps,
+  Leonidas H2O for maritime interdiction, the portable Leonidas Pod, and
+  Stryker Leonidas (with General Dynamics Land Systems). Epirus also
+  collaborates with Anduril, Northrop Grumman, L3Harris, Kodiak AI, Peraton,
+  and Palantir, and has received contracts from the U.S. Army, U.S. Air Force,
+  U.S. Navy, DARPA, ONR, and Singapore's DSTA. The company is privately held,
+  has raised more than $550M across Series B/C/D, and operates under CMMC
+  Level 2 certification. Its product surface is classified defense hardware
+  and embedded firmware — there is no public developer portal, REST API,
+  SDK, or open-source software offering.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Defense
+  - Defense Technology
+  - Directed Energy
+  - High-Power Microwave
+  - Counter-UAS
+  - Counter-Drone
+  - Counter-Electronics
+  - Electronic Warfare
+  - Non-Kinetic Effects
+  - Air Defense
+  - Air Domain Awareness
+  - National Security
+  - Government
+  - Military
+  - Leonidas
+  - IFPC-HPM
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/epirus/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.epirusinc.com
+  - type: About
+    url: https://www.epirusinc.com/about
+  - type: Leadership
+    url: https://www.epirusinc.com/leadership
+  - type: Leonidas
+    url: https://www.epirusinc.com/electronic-warfare
+  - type: AdvancedElectronics
+    url: https://www.epirusinc.com/advanced-electronics
+  - type: AirDomainAwareness
+    url: https://www.epirusinc.com/air-domain-awareness
+  - type: Markets
+    url: https://www.epirusinc.com/markets/government
+  - type: Customers
+    url: https://www.epirusinc.com/our-customer
+  - type: Newsroom
+    url: https://www.epirusinc.com/newsroom
+  - type: Careers
+    url: https://www.epirusinc.com/careers
+  - type: Contact
+    url: https://www.epirusinc.com/contact
+  - type: Twitter
+    url: https://twitter.com/Epirus
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/epirus/
+  - type: YouTube
+    url: https://www.youtube.com/channel/UCbN5WM_Smgm5AmscysS-e4g
+  - type: Facebook
+    url: https://www.facebook.com/EpirusInc
+  - type: Instagram
+    url: https://www.instagram.com/epirus_inc
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
